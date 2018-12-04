@@ -1,5 +1,5 @@
 main(List<String> args) {
-  // ----- FOR LOOP -----
+  /// ----- FOR LOOP -----
   for (var i = 1; i <= 100; i++) {
     if (i % 2 == 0) {
       print(i);
